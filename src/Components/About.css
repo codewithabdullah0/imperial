@@ -1,0 +1,459 @@
+.about-banner-div1{
+padding-top: 70px;
+padding-bottom: 60px;
+}
+
+.about-banner-div1 .container:first-child{
+    background: url(../Images/volvo_excavator\ \(1\)\ 1.png);
+    padding: 45px 70px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: -50px;
+
+}
+
+.about-banner-text1 h4{
+color: #FFC055;
+font-family: Poppins;
+font-size: 22px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px; /* 236.364% */
+}
+
+.about-banner-text1 h1{
+color: #FFF;
+font-family: Poppins;
+font-size: 42px;
+font-style: normal;
+font-weight: 700;
+line-height: 52px; /* 123.81% */
+text-transform: uppercase;
+margin-bottom: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* {// ###################### section no ### 2 #############} */
+
+.about-text-sec-div1{
+
+}
+
+.about-text-sec-div2 h2{
+color: #231F20;
+font-family: Poppins;
+font-size: 34px;
+font-style: normal;
+font-weight: 700;
+line-height: 44px; /* 152.941% */
+text-align: center;
+}
+
+.about-text-sec-div2 p{
+color: #7D7D7D;
+text-align: center;
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 150% */
+margin-top: 18px;
+padding-left: 70px;
+padding-right: 70px;
+}
+
+
+
+
+
+
+
+/* ######Part   no   #####  2   #############  */
+
+
+.about-sec2-img-div{
+    display: flex;
+    margin-top: 84px;
+    flex-wrap: wrap;
+}
+
+.about-sec2-img1-div1{
+width: 40%;
+padding-right: 16px;
+}
+
+.about-sec2-img1-div1 div{
+    width: 100%;
+height: 100%;
+background: #FFC055;
+display: flex;
+align-items: center;
+padding-left: 52px;
+}
+
+.about-sec2-img1-div1 div h2{
+   color: #FFF;
+font-family: Poppins;
+font-size: 38px;
+font-style: normal;
+font-weight: 700;
+line-height: 44px; /* 123.684% */
+}
+
+
+.about-sec2-img2-div1{
+    width: 40%;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-bottom: 16px;
+}
+
+.about-sec2-img2-div1 img{
+    width: 100%;
+    height: 100%;
+}
+
+.about-sec2-img3-div1{
+    width: 20%;
+    padding-left: 16px;
+    padding-bottom: 16px;
+
+}
+
+.about-sec2-img3-div1 img{
+    width: 100%;
+height: 100%;
+}
+
+.about-sec2-img4-div1{
+    width: 40%;
+    padding-right: 16px;
+}
+
+.about-sec2-img4-div1 img{
+    width: 100%;
+height: 100%;
+}
+
+
+.about-sec2-img5-div1{
+    width: 40%;
+    display: flex;
+    flex-wrap: wrap;
+    padding-right: 16px;
+    padding-left: 16px;
+    padding-top: 16px;
+}
+
+.about-sec2-img5-div1 div{
+    width: 100%;
+height: 100%;
+background-color: #000;
+display: flex;
+place-items: center;
+place-content: center;
+column-gap: 12px;
+}
+
+.about-sec2-img5-div1 div h1{
+font-family: Poppins;
+font-size: 124px;
+font-style: normal;
+font-weight: 700;
+line-height: 100px; /* 37.903% */
+background: linear-gradient(116deg, #F6901F -4.71%, #FFBA6E 91.98%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+margin-bottom: 0px;
+}
+
+.about-sec2-img5-div1 p{
+    color: #FFF;
+text-align: center;
+font-family: Poppins;
+font-size: 22px;
+font-style: normal;
+font-weight: 500;
+line-height: 28px; /* 131.818% */
+margin-bottom: 0px;
+}
+
+.about-sec2-img6-div1{
+    width: 20%;
+    padding-left: 16px;
+    padding-top: 16px;
+
+}
+
+.about-sec2-img6-div1 img{
+    width: 100%;
+height: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.about-vision-sec-div1{
+padding-top: 80px;
+padding-bottom: 70px;
+}
+
+.about-vision-text-div1 h1{
+color: #231F20;
+font-family: Poppins;
+font-size: 34px;
+font-style: normal;
+font-weight: 700;
+line-height: 46px; /* 152.941% */
+}
+
+.about-vision-text-div1 p{
+color: #7D7D7D;
+font-family: Poppins;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; /* 129.167% */
+margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 576px) {
+
+.about-banner-div1{
+padding-top: 44px;
+padding-bottom: 50px;
+}
+
+.about-banner-div1 .container:first-child{
+    background: url(../Images/volvo_excavator\ \(1\)\ 1.png);
+    padding: 42px 30px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: -200px;
+}
+
+.about-banner-text1 h4{
+font-size: 19px;
+line-height: 28px; /* 236.364% */
+}
+
+.about-banner-text1 h1{
+font-size: 32px;
+line-height: 42px; /* 123.81% */
+margin-bottom: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* {// ###################### section no ### 2 #############} */
+
+
+.about-text-sec-div2 h2{
+font-size: 28px;
+line-height: 36px; /* 152.941% */
+}
+
+.about-text-sec-div2 p{
+font-size: 16px;
+line-height: 24px; /* 150% */
+margin-top: 18px;
+padding-left: 15px;
+padding-right: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ######Part   no   #####  2   #############  */
+
+
+.about-sec2-img-div{
+    display: flex;
+    margin-top: 66px;
+    flex-wrap: wrap;
+}
+
+.about-sec2-img1-div1{
+width: 50%;
+padding-right: 7.5px;
+padding-bottom: 7.5px;
+}
+
+.about-sec2-img1-div1 div{
+display: flex;
+align-items: center;
+padding-left: 18px;
+padding-top: 18px ;
+padding-bottom: 12px;
+padding-right: 18px;
+}
+
+.about-sec2-img1-div1 div h2{
+font-size: 23px;
+line-height: 30px; /* 123.684% */
+}
+
+
+.about-sec2-img2-div1{
+    width: 50%;
+    padding-left: 7.5px;
+    padding-right: 0px;
+    padding-bottom: 7.5px;
+}
+
+
+.about-sec2-img3-div1{
+    width: 50%;
+    padding-left: 0px;
+    padding-right: 7.5px;
+    padding-top: 7.5px;
+    padding-bottom: 7.5px;
+
+}
+
+
+.about-sec2-img4-div1{
+    width: 50%;
+    padding-right: 0px;
+    padding-left: 7.5px;
+    padding-top: 7.5px;
+    padding-bottom: 7.5px;
+}
+
+.about-sec2-img5-div1{
+    width: 50%;
+    display: flex;
+    flex-wrap: wrap;
+    padding-right: 7.5px;
+    padding-left: 0px;
+    padding-top: 7.5px;
+}
+
+.about-sec2-img5-div1 div{
+display: block;
+text-align: center;
+padding-top: 18px;
+padding-bottom: 18px;
+}
+
+.about-sec2-img5-div1 div h1{
+font-size: 60px;
+line-height: 70px; /* 37.903% */
+}
+
+.about-sec2-img5-div1 p{
+font-size: 14px;
+line-height: 24px; /* 131.818% */
+margin-bottom: 0px;
+margin-top: 4px;
+}
+
+.about-sec2-img6-div1{
+    width: 50%;
+    padding-left: 7.5px;
+    padding-top: 7.5px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.about-vision-sec-div1{
+padding-top: 70px;
+padding-bottom: 70px;
+}
+
+.about-vision-text-div1 h1{
+font-size: 30px;
+line-height: 38px; /* 152.941% */
+}
+
+.about-vision-text-div1 p{
+font-size: 18px;
+line-height: 26px; /* 129.167% */
+margin-top: 10px;
+padding-right: 30px;
+margin-bottom: 30px;
+}
+
+
+
+
+}
